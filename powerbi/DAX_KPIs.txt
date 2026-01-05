@@ -1,0 +1,12 @@
+
+Player Impact Index =
+DIVIDE(
+    SUM(deliveries[batsman_runs]) * [Strike Rate],
+    DISTINCTCOUNT(matches[match_id])
+)
+
+Consistency Score =
+1 - DIVIDE(
+    STDEVX.P(VALUES(matches[match_id]), SUM(deliveries[batsman_runs])),
+    AVERAGEX(VALUES(matches[match_id]), SUM(deliveries[batsman_runs]))
+)

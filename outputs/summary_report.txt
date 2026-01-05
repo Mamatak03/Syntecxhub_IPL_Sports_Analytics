@@ -1,0 +1,35 @@
+IPL Sports Analytics Summary
+
+Top Players:
+batter
+V Kohli           8014
+S Dhawan          6769
+RG Sharma         6630
+DA Warner         6567
+SK Raina          5536
+MS Dhoni          5243
+AB de Villiers    5181
+CH Gayle          4997
+RV Uthappa        4954
+KD Karthik        4843
+
+Team Win Rates:
+Rising Pune Supergiant         62.500000
+Gujarat Titans                 62.222222
+Chennai Super Kings            57.983193
+Mumbai Indians                 55.172414
+Lucknow Super Giants           54.545455
+Delhi Capitals                 52.747253
+Kolkata Knight Riders          52.191235
+Rajasthan Royals               50.678733
+Sunrisers Hyderabad            48.351648
+Royal Challengers Bangalore    48.333333
+Royal Challengers Bengaluru    46.666667
+Kings XI Punjab                46.315789
+Gujarat Lions                  43.333333
+Kochi Tuskers Kerala           42.857143
+Punjab Kings                   42.857143
+Delhi Daredevils               41.614907
+Deccan Chargers                38.666667
+Rising Pune Supergiants        35.714286
+Pune Warriors                  26.086957
