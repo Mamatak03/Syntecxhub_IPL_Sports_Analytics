@@ -1,5 +1,5 @@
 
-# IPL Sports Analytics – Python + Power BI
+# (WEEK 4) IPL Sports Analytics – Python + Power BI
 
 End-to-end IPL analytics project created for Syntecxhub Data Science Internship (Week 4).
 
