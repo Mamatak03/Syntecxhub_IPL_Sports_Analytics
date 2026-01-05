@@ -1,4 +1,4 @@
-#🏏 (WEEK 4) IPL Sports Analytics – Python + Power BI
+🏏 (WEEK 4) IPL Sports Analytics – Python + Power BI
 
 🚀 End-to-End IPL Analytics Project built as part of the Syntecxhub Data Science Internship (Week 4).
 
